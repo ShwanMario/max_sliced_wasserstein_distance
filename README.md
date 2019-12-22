@@ -1,6 +1,5 @@
 # Max Sliced-Wasserstein Autoencoder - PyTorch
 
-[![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
 
 Implementation of Max Sliced Wasserstein Distance in the paper ["Generalized Sliced Wasserstein Distances"](https://arxiv.org/abs/1902.00434) using PyTorch.
 
