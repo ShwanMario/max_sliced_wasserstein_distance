@@ -9,7 +9,7 @@ This repo is based on the implementation shared by [Emmanuel Fuentes](https://gi
 
 ## Requirement
 
-To run this demo, please install the required by running: `pip install -r requirements-dev.txt`
+To run this demo, please install the required packages by running: `pip install -r requirements-dev.txt`
 
 ## Train the model with different setups
 
