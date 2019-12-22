@@ -13,5 +13,6 @@ To run this demo, please install the required by running: `pip install -r requir
 
 ## Train the model with different setups
 
-You can train this model with 'max' and 'normal' mode, which means using the Maximum Sliced-Wasserstein distance and the normal Sliced-Wasserstein distance, respectively. To train with 'max' mode please run: ` python examples/mnist.py --mode 'max' --mode_test 'max' `. For more informations, please refer to this file: [mnist.py](https://github.com/ShwanMario/max_sliced_wasserstein_distance/blob/master/examples/mnist.py)
+You can train this model with 'max' and 'normal' mode, which means using the Maximum Sliced-Wasserstein distance and the normal Sliced-Wasserstein distance, respectively. 
+To train with 'max' mode please run: ` python examples/mnist.py --mode 'max' --mode_test 'max' `. For more informations, please refer to this file: [mnist.py](https://github.com/ShwanMario/max_sliced_wasserstein_distance/blob/master/examples/mnist.py)
 
